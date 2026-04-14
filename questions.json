@@ -1,1 +1,938 @@
-
+[
+  {
+    "topic": "Lịch sử Việt Nam",
+    "question": "Trong thời gian hoạt động tại Trung Quốc (1912), Phan Bội Châu tham gia thành lập tổ chức nào sau đây?",
+    "options": {
+      "a": "Việt Nam Quang phục hội.",
+      "b": "Việt Nam Quốc Dân Đảng.",
+      "c": "Đông Á đồng minh.",
+      "d": "Hội Liên hiệp thuộc địa."
+    },
+    "answer": "a",
+    "explanation": "Năm 1912 tại Quảng Châu (Trung Quốc), Phan Bội Châu cùng các đồng chí đã tuyên bố giải tán Duy Tân hội và thành lập Việt Nam Quang phục hội với mục tiêu đánh đuổi thực dân Pháp, khôi phục nước Việt Nam."
+  },
+  {
+    "topic": "Lịch sử Việt Nam",
+    "question": "Hoạt động đối ngoại của Phan Châu Trinh (đầu thế kỉ XX) diễn ra ở quốc gia nào sau đây?",
+    "options": {
+      "a": "Pháp.",
+      "b": "Liên Xô.",
+      "c": "Nhật Bản.",
+      "d": "Trung Quốc."
+    },
+    "answer": "a",
+    "explanation": "Trong những năm đầu thế kỉ XX (sau khi được ân xá năm 1911), Phan Châu Trinh chủ yếu sang hoạt động tại Pháp, đề xướng phong trào vận động dân chủ, nhân quyền và yêu cầu chính phủ Pháp cải cách chính sách cai trị tại Đông Dương."
+  },
+  {
+    "topic": "Lịch sử Việt Nam",
+    "question": "Trong những năm 1911-1922, hoạt động đối ngoại của Nguyễn Ái Quốc ở quốc gia nào sau đây?",
+    "options": {
+      "a": "Pháp.",
+      "b": "Nhật Bản.",
+      "c": "Liên Xô.",
+      "d": "Trung Quốc."
+    },
+    "answer": "a",
+    "explanation": "Dù hành trình tìm đường cứu nước đi qua nhiều châu lục, nhưng từ cuối năm 1917 đến 1923, Nguyễn Ái Quốc chủ yếu hoạt động tại Pháp (gia nhập Đảng Xã hội Pháp, gửi Yêu sách đến Hội nghị Versailles, sáng lập Đảng Cộng sản Pháp)."
+  },
+  {
+    "topic": "Lịch sử Việt Nam",
+    "question": "Trong thời gian hoạt động tại Pháp (1920), Nguyễn Ái Quốc tham gia sáng lập tổ chức nào sau đây?",
+    "options": {
+      "a": "Đảng Cộng sản Pháp.",
+      "b": "Đảng Cộng sản Liên Xô.",
+      "c": "Việt Nam Quang phục hội.",
+      "d": "Tân Việt Cách mạng đảng."
+    },
+    "answer": "a",
+    "explanation": "Tại Đại hội Tua (12/1920), Nguyễn Ái Quốc đã bỏ phiếu tán thành gia nhập Quốc tế Cộng sản và trở thành một trong những người tham gia sáng lập Đảng Cộng sản Pháp."
+  },
+  {
+    "topic": "Lịch sử Việt Nam",
+    "question": "Năm 1924, Nguyễn Ái Quốc đến Quảng Châu (Trung Quốc) đã liên lạc với lực lượng cách mạng ở khu vực nào sau đây?",
+    "options": {
+      "a": "Đông Nam Á.",
+      "b": "Mỹ La-tinh.",
+      "c": "Bắc Phi.",
+      "d": "Tây Nam Á."
+    },
+    "answer": "a",
+    "explanation": "Tại Quảng Châu, ngoài việc chuẩn bị cho cách mạng Việt Nam, Người còn tham gia thành lập Hội Liên hiệp các dân tộc bị áp bức Á Đông để đoàn kết lực lượng cách mạng khu vực Đông Nam Á và châu Á."
+  },
+  {
+    "topic": "Lịch sử Việt Nam",
+    "question": "Hoạt động đối ngoại của Đảng Cộng sản Đông Dương trong những năm 1930-1945 chủ yếu",
+    "options": {
+      "a": "phục vụ đấu tranh chống thực dân, phát xít giành độc lập.",
+      "b": "phục vụ cho mối quan hệ ngoại giao với các nước lớn.",
+      "c": "tìm kiếm liên minh quân sự với các cường quốc lớn.",
+      "d": "liên kết với các nước phương Tây chống đế quốc, thực dân."
+    },
+    "answer": "a",
+    "explanation": "Giai đoạn 1930-1945, mục tiêu tối thượng của cách mạng Việt Nam là giải phóng dân tộc. Do đó, mọi hoạt động đối ngoại đều nhằm tranh thủ sự ủng hộ quốc tế để đánh đuổi thực dân Pháp và phát xít Nhật."
+  },
+  {
+    "topic": "Lịch sử Việt Nam",
+    "question": "Nội dung nào sau đây phản ánh không đúng hoạt động đối ngoại của Đảng Cộng sản Đông Dương trong những năm 1930-1945?",
+    "options": {
+      "a": "Tham gia các khối quân sự chống phát xít.",
+      "b": "Củng cố quan hệ với Đảng Cộng sản Trung Quốc.",
+      "c": "Tổ chức nhiều hoạt động để ủng hộ Liên Xô.",
+      "d": "Liên lạc với phong trào chống quân phiệt Nhật Bản."
+    },
+    "answer": "a",
+    "explanation": "Đảng Cộng sản Đông Dương chủ trương ủng hộ và đứng về phe Đồng minh chống phát xít, nhưng Việt Nam lúc đó chưa có tư cách quốc gia độc lập để chính thức 'tham gia các khối quân sự' của thế giới."
+  },
+  {
+    "topic": "Lịch sử Việt Nam",
+    "question": "Trong những năm Chiến tranh thế giới thứ hai (1939-1945) hoạt động đối ngoại của Đảng Cộng sản Đông Dương đã đưa ra chủ trương nào sau đây?",
+    "options": {
+      "a": "Đứng về phía phe đồng minh chống phát xít.",
+      "b": "Liên minh quân sự với các quốc gia Đông Nam Á.",
+      "c": "Triển khai các hoạt động giúp đỡ các nước bại trận.",
+      "d": "Thành lập liên minh chống chiến tranh ở Đông Dương."
+    },
+    "answer": "a",
+    "explanation": "Hội nghị Trung ương 8 (5/1941) và các văn kiện của Đảng đã xác định rõ chủ trương ủng hộ và đứng về phía phe Đồng minh (Mỹ, Anh, Liên Xô...) trong cuộc chiến chống lại chủ nghĩa phát xít."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Trong thời gian hoạt động ở Trung Quốc, Phan Bội Châu thành lập tổ chức Việt Nam Quang phục hội (1912) nhằm mục đích nào sau đây?",
+    "options": {
+      "a": "Đánh Pháp giành độc lập, thành lập nước Cộng hòa Dân quốc Việt Nam.",
+      "b": "Đánh Mỹ giành độc lập, thành lập nước Cộng hòa Dân quốc Việt Nam.",
+      "c": "Đánh Pháp giành độc lập, thành lập nước Việt Nam Dân chủ Cộng hòa.",
+      "d": "Tiến hành cải cách đất nước, lập ra nhà nước Việt Nam Dân chủ Cộng hòa."
+    },
+    "answer": "a",
+    "explanation": "Ảnh hưởng bởi Cách mạng Tân Hợi (Trung Quốc), mục tiêu của Việt Nam Quang phục hội được xác định rõ là: Đánh đuổi giặc Pháp, khôi phục nước Việt Nam, thành lập nước Cộng hòa Dân quốc Việt Nam."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Hoạt động của Phan Châu Trinh trong thời gian ở Pháp (những năm đầu thế kỉ XX) nhằm mục đích nào sau đây?",
+    "options": {
+      "a": "Vận động cải cách cho Việt Nam.",
+      "b": "Thiết lập quan hệ với nước Pháp.",
+      "c": "Nhờ Pháp để đánh đuổi Nhật Bản.",
+      "d": "Vận động trao trả độc lập cho Việt Nam."
+    },
+    "answer": "a",
+    "explanation": "Khác với chủ trương bạo động của Phan Bội Châu, Phan Châu Trinh theo đuổi con đường cải cách ôn hòa. Tại Pháp, ông tiếp tục vận động chính quyền thực dân nới lỏng chính sách cai trị và mở mang dân trí, dân quyền cho người Việt."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Nội dung nào sau đây phản ánh đúng mục đích hoạt động của Hội Liên hiệp thuộc địa được Nguyễn Ái Quốc tham gia sáng lập tại Pháp (1921)?",
+    "options": {
+      "a": "Đoàn kết các lực lượng cách mạng chống chủ nghĩa thực dân.",
+      "b": "Liên minh với các nước tư bản để chống chủ nghĩa thực dân.",
+      "c": "Lãnh đạo phong trào công nhân ở các nước tư bản phương Tây.",
+      "d": "Đào tạo thanh niên ở các nước thuộc địa đưa về nước hoạt động."
+    },
+    "answer": "a",
+    "explanation": "Hội Liên hiệp thuộc địa được thành lập nhằm tập hợp, đoàn kết nhân dân các nước thuộc địa của Pháp, làm cho họ hiểu rõ tình cảnh của nhau và cùng phối hợp đấu tranh chống chủ nghĩa thực dân."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Những hoạt động đối ngoại của Nguyễn Ái Quốc ở Liên Xô (1923-1924) đã xác lập mối quan hệ giữa cách mạng Việt Nam với",
+    "options": {
+      "a": "Quốc tế Cộng sản và cách mạng thế giới.",
+      "b": "phong trào cách mạng ở Mỹ La-tinh.",
+      "c": "cách mạng Lào và các nước Đông Âu.",
+      "d": "hệ thống các nước xã hội chủ nghĩa."
+    },
+    "answer": "a",
+    "explanation": "Sự có mặt và hoạt động của Nguyễn Ái Quốc tại Liên Xô (dự Đại hội V Quốc tế Cộng sản, viết bài cho báo Sự thật...) đã gắn kết chặt chẽ cách mạng Việt Nam với Quốc tế Cộng sản và phong trào cách mạng vô sản thế giới."
+  },
+  {
+    "topic": "Vận dụng kiến thức, kĩ năng đã học",
+    "question": "Phong trào Đông Du (1905-1908) do Phan Bội Châu khởi xướng đã để lại bài học nào sau đây cho nhân dân Việt Nam hiện nay?",
+    "options": {
+      "a": "Tranh thủ ngoại lực, phát huy sức mạnh nội lực.",
+      "b": "Nói đi đôi với làm, không ngừng rèn luyện bản thân.",
+      "c": "Vừa học, vừa làm phụng sự gia đình và xã hội.",
+      "d": "Dám nói, dám làm và dám chịu trách nhiệm."
+    },
+    "answer": "a",
+    "explanation": "Phong trào Đông Du thất bại do phụ thuộc quá nhiều vào Nhật Bản. Bài học rút ra là trong hội nhập quốc tế, cần tranh thủ các nguồn ngoại lực (vốn, công nghệ) nhưng phải luôn lấy việc phát huy sức mạnh nội lực làm gốc."
+  },
+  {
+    "topic": "Vận dụng kiến thức, kĩ năng đã học",
+    "question": "Những hoạt động đối ngoại của Nguyễn Ái Quốc trong những năm 1911 đến 1930 đã để lại bài học quý giá nào sau đây cho thế hệ trẻ ở Việt Nam hiện nay?",
+    "options": {
+      "a": "Nghị lực và bản lĩnh, rèn luyện ý chí quyết tâm, không ngừng phấn đấu.",
+      "b": "Coi ngoại lực là động lực chủ yếu để phát triển cuộc sống bản thân.",
+      "c": "Kết hợp tiến bộ của nhân loại với những giá trị của bản thân mình.",
+      "d": "Đề cao cá nhân và vươn tầm ảnh hưởng của bản thân ra thế giới."
+    },
+    "answer": "a",
+    "explanation": "Hành trình ra đi tìm đường cứu nước đầy gian truân, phải làm nhiều nghề vất vả nhưng không bao giờ từ bỏ mục tiêu của Bác là tấm gương sáng ngời về ý chí, nghị lực vượt khó cho thế hệ trẻ học tập."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Năm 1950, Chính phủ Việt Nam Dân chủ Cộng hòa thiết lập quan hệ ngoại giao với quốc gia nào sau đây?",
+    "options": {
+      "a": "Trung Quốc.",
+      "b": "Nhật Bản.",
+      "c": "Cam-pu-chia.",
+      "d": "Hàn Quốc."
+    },
+    "answer": "a",
+    "explanation": "Ngày 18/1/1950, Cộng hòa Nhân dân Trung Hoa là quốc gia đầu tiên trên thế giới chính thức công nhận và thiết lập quan hệ ngoại giao với nước ta."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Một trong những hoạt động đối ngoại của Chính phủ Việt Nam Dân chủ Cộng hòa ngay sau Cách mạng tháng Tám năm 1945 là",
+    "options": {
+      "a": "gửi công hàm đến Liên hợp quốc.",
+      "b": "gửi yêu cầu ngừng bắn đến nước Pháp.",
+      "c": "yêu cầu nước Pháp trao trả độc lập.",
+      "d": "thành lập Liên minh Việt-Miên-Lào."
+    },
+    "answer": "a",
+    "explanation": "Nhằm tranh thủ sự ủng hộ quốc tế và phá vỡ thế bao vây cô lập, ngay sau 2/9/1945, Chủ tịch Hồ Chí Minh đã nhiều lần gửi công hàm, thư cho lãnh đạo các nước lớn và Liên hợp quốc."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Năm 1946, Chính phủ Việt Nam Dân chủ Cộng hòa có hoạt động đối ngoại nổi bật nào sau đây với Pháp?",
+    "options": {
+      "a": "Ký Hiệp định Sơ bộ.",
+      "b": "Ký Hiệp ước Hác-măng.",
+      "c": "Ký Định ước Hen-xin-ki.",
+      "d": "Ký Hiệp ước Pa-tơ-nốt."
+    },
+    "answer": "a",
+    "explanation": "Ngày 6/3/1946, Chủ tịch Hồ Chí Minh thay mặt Chính phủ Việt Nam ký với đại diện Pháp bản Hiệp định Sơ bộ, thực hiện sách lược 'hòa để tiến', đuổi quân Tưởng về nước."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Năm 1949, Chính phủ Việt Nam Dân chủ Cộng hòa có hoạt động đối ngoại nổi bật nào sau đây với Pháp?",
+    "options": {
+      "a": "Ký Bản Tạm ước Việt-Pháp.",
+      "b": "Ký Hiệp ước Hác-măng.",
+      "c": "Ký Định ước Hen-xin-ki.",
+      "d": "Ký Hiệp ước Pa-tơ-nốt."
+    },
+    "answer": "a",
+    "explanation": "Lưu ý lỗi đề bài: Bản Tạm ước Việt-Pháp thực tế được ký kết vào ngày 14/9/1946, không phải năm 1949. Năm 1949, Pháp chủ yếu thỏa hiệp với Bảo Đại để lập Quốc gia Việt Nam. Đáp án A là lựa chọn sát nhất với chủ ý của đề thi đang muốn nhắc tới văn bản ngoại giao với Pháp."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Năm 1951, Chính phủ Việt Nam Dân chủ Cộng hòa có hoạt động đối ngoại nào sau đây?",
+    "options": {
+      "a": "Thành lập liên minh nhân dân Việt - Miên - Lào.",
+      "b": "Thành lập liên minh các quốc gia Đông Nam Á.",
+      "c": "Trở thành đối tác chiến lược của Trung Quốc.",
+      "d": "Tham gia thành lập Hội đồng tương trợ kinh tế (SEV)."
+    },
+    "answer": "a",
+    "explanation": "Tháng 3/1951, Hội nghị đại biểu nhân dân ba nước Đông Dương đã diễn ra thành công và nhất trí thành lập Liên minh nhân dân Việt - Miên - Lào nhằm tăng cường sức mạnh chống Pháp."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Trong giai đoạn 1947-1949, Chính phủ Việt Nam Dân chủ Cộng hòa thực hiện hoạt động đối ngoại nào sau đây?",
+    "options": {
+      "a": "Mở cơ quan đại diện ở một số nước châu Á.",
+      "b": "Thành lập liên minh với Lào và Cam-pu-chia.",
+      "c": "Thiết lập quan hệ ngoại giao với Trung Quốc.",
+      "d": "Ký với đại diện Pháp Hiệp định Giơ-ne-vơ."
+    },
+    "answer": "a",
+    "explanation": "Để từng bước phá thế bao vây cô lập, trong giai đoạn này ta đã cử các phái đoàn ngoại giao và mở cơ quan đại diện ở một số nước châu Á như Thái Lan, Miến Điện (Myanmar ngày nay)."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Trong giai đoạn 1950-1954, Chính phủ Việt Nam Dân chủ Cộng hòa thực hiện hoạt động đối ngoại nào sau đây?",
+    "options": {
+      "a": "Thiết lập quan hệ ngoại giao với Trung Quốc và Liên Xô.",
+      "b": "Thiết lập quan hệ ngoại giao với tất cả các nước trên thế giới.",
+      "c": "Đàm phán và kí kết Hiệp định Pa-ri về chấm dứt chiến tranh.",
+      "d": "Chuyển sang giai đoạn vừa đánh, vừa đàm với thực dân Pháp."
+    },
+    "answer": "a",
+    "explanation": "Từ tháng 1/1950, lần lượt Trung Quốc, Liên Xô và các nước XHCN Đông Âu đã công nhận và thiết lập quan hệ ngoại giao chính thức với Việt Nam Dân chủ Cộng hòa."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Một trong những chính sách đối ngoại của Đảng và Chính phủ Việt Nam Dân chủ Cộng hòa trong cuộc kháng chiến chống Mỹ, cứu nước (1954-1975) là",
+    "options": {
+      "a": "củng cố, phát triển quan hệ với các nước xã hội chủ nghĩa.",
+      "b": "bình thường hóa quan hệ với Trung Quốc và Ấn Độ.",
+      "c": "hợp tác toàn diện với Nhật Bản, Hàn Quốc và Pháp.",
+      "d": "củng cố, phát triển quan hệ với các nước tư bản chủ nghĩa."
+    },
+    "answer": "a",
+    "explanation": "Do bối cảnh Chiến tranh lạnh, Việt Nam nỗ lực củng cố và phát triển quan hệ ngoại giao chặt chẽ với các nước XHCN anh em (nhất là Liên Xô, Trung Quốc) để tranh thủ sự viện trợ quân sự, kinh tế."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Nội dung nào sau đây phản ánh không đúng bối cảnh hoạt động đối ngoại của Chính phủ nước Việt Nam Dân chủ Cộng hòa sau ngày 2-9-1945?",
+    "options": {
+      "a": "Xu thế hòa hoãn Đông-Tây trên thế giới đã xuất hiện.",
+      "b": "Hệ thống xã hội chủ nghĩa dần hình thành trên thế giới.",
+      "c": "Việt Nam chưa thoát khỏi tình thế bị bao vây, cô lập.",
+      "d": "Việt Nam chưa được quốc gia nào đặt quan hệ ngoại giao."
+    },
+    "answer": "a",
+    "explanation": "Xu thế hòa hoãn Đông - Tây (bắt đầu bằng những cuộc tiếp xúc Xô - Mỹ) chỉ xuất hiện vào đầu những năm 70 của thế kỷ XX, không phải là bối cảnh ngay sau năm 1945."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Hoạt động đối ngoại của của Chính phủ nước Việt Nam Dân chủ Cộng hòa từ sau ngày 2-9-1945 đến trước ngày 19-12-1946 có tác dụng nào sau đây?",
+    "options": {
+      "a": "Tránh được cùng lúc phải đối phó với nhiều kẻ thù.",
+      "b": "Nhận được viện trợ của Trung Quốc và Liên Xô.",
+      "c": "Giúp Việt Nam thoát khỏi tình thế bị bao vây, cô lập.",
+      "d": "Giúp Việt Nam xây dựng thành công chủ nghĩa xã hội."
+    },
+    "answer": "a",
+    "explanation": "Bằng các sách lược mềm dẻo (lúc hòa hoãn với quân Tưởng để đánh Pháp ở miền Nam, lúc ký Hiệp định Sơ bộ hòa Pháp để đuổi Tưởng), ngoại giao đã giúp ta phân hóa kẻ thù, tránh phải chiến đấu trên nhiều mặt trận cùng lúc."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Nội dung nào sau đây phản ánh đúng bối cảnh hoạt động đối ngoại của nước Việt Nam Dân chủ Cộng hòa trong cuộc kháng chiến chống Mỹ, cứu nước (1954-1975)?",
+    "options": {
+      "a": "Việt Nam đã thoát ra khỏi tình thế bị bao vây và cô lập.",
+      "b": "Thực dân Pháp tiến hành xâm lược Việt Nam lần thứ hai.",
+      "c": "Tình trạng Chiến tranh lạnh đã chấm dứt trên thế giới.",
+      "d": "Trật tự thế giới theo xu thế đa cực đang dần hình thành."
+    },
+    "answer": "a",
+    "explanation": "Từ năm 1950, khi Liên Xô, Trung Quốc thiết lập quan hệ ngoại giao và nhất là sau chiến thắng Điện Biên Phủ, Việt Nam đã hoàn toàn phá vỡ thế bao vây cô lập, đàng hoàng bước vào kháng chiến chống Mỹ với vị thế mới."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Chính phủ Việt Nam Dân chủ Cộng hòa kí với Pháp Hiệp định Giơ-ne-vơ (1954) có ý nghĩa nào sau đây?",
+    "options": {
+      "a": "Lần đầu tiên ngoại giao Việt Nam đàm phán đa phương với các nước lớn.",
+      "b": "Hợp tác đa phương giữa Việt Nam với các cường quốc lớn được thiết lập.",
+      "c": "Quan hệ ngoại giao giữa hai nước Việt Nam và Pháp nâng lên tầm cao mới.",
+      "d": "Việt Nam trở thành thành viên của Hiệp hội các quốc gia Đông Nam Á."
+    },
+    "answer": "a",
+    "explanation": "Hội nghị Giơ-ne-vơ đánh dấu lần đầu tiên nền ngoại giao cách mạng Việt Nam tham gia một hội nghị quốc tế đa phương, có sự góp mặt đàm phán trực tiếp của các cường quốc hàng đầu thế giới."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Sự kiện nào sau đây được đánh giá là đỉnh cao thắng lợi trên mặt trận ngoại giao của Việt Nam trong cuộc kháng chiến chống Mĩ cứu nước (1954-1975)?",
+    "options": {
+      "a": "Hiệp đinh Pa-ri được kí kết (1973).",
+      "b": "Hiệp đinh Giơ-ne-vơ được kí kết (1954).",
+      "c": "Mĩ thiết lập quan hệ ngoại giao với Việt Nam.",
+      "d": "Việt Nam gia nhập vào tổ chức Liên Hợp quốc."
+    },
+    "answer": "a",
+    "explanation": "Hiệp định Paris năm 1973 buộc đế quốc Mỹ phải công nhận các quyền dân tộc cơ bản của nhân dân ta và rút hết quân về nước, là đỉnh cao thắng lợi ngoại giao, tạo bước ngoặt tiến tới giải phóng hoàn toàn miền Nam."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Trong cuộc kháng chiến chống Mỹ, cứu nước (1954-1975), hoạt động ngoại giao của Chính phủ Việt Nam Dân chủ Cộng hòa đã đạt được thành tựu nào sau đây?",
+    "options": {
+      "a": "Hình thành mặt trận nhân dân thế giới ủng hộ cuộc kháng chiến.",
+      "b": "Thành lập được liên minh chiến đấu với các nước Đông Nam Á.",
+      "c": "Được Trung Quốc, Liên Xô công nhận và đặt quan hệ ngoại giao.",
+      "d": "Trở thành thành viên chính thức của tổ chức Liên hợp quốc."
+    },
+    "answer": "a",
+    "explanation": "Đường lối ngoại giao nhân dân xuất sắc đã giúp ta tạo ra một 'mặt trận' rộng lớn trên toàn thế giới (kể cả ngay trong lòng nước Mỹ) ủng hộ phong trào đấu tranh chính nghĩa của Việt Nam."
+  },
+  {
+    "topic": "Vận dụng kiến thức, kĩ năng đã học",
+    "question": "Nội dung nào sau đây phản ánh đúng điểm tương đồng của đấu tranh ngoại giao trong cuộc kháng chiến chống thực dân Pháp (1945-1954) và đế quốc Mỹ (1954-1975) ở Việt Nam?",
+    "options": {
+      "a": "Đấu tranh ngoại giao có quan hệ chặt chẽ với đấu tranh chính trị.",
+      "b": "Đấu tranh ngoại giao luôn đi trước mở đường cho đấu tranh quân sự.",
+      "c": "Mặt trận ngoại giao được hình thành ngay từ đầu cuộc kháng chiến.",
+      "d": "Hoạt động ngoại giao chịu sự chi phối hoàn toàn của hoạt động quân sự."
+    },
+    "answer": "a",
+    "explanation": "Ngoại giao không hoạt động độc lập mà luôn có sự phối hợp, tương hỗ chặt chẽ với mặt trận quân sự và chính trị, biến những thắng lợi trên chiến trường thành lợi thế trên bàn đàm phán."
+  },
+  {
+    "topic": "Vận dụng kiến thức, kĩ năng đã học",
+    "question": "Nội dung nào sau đây phản ánh đúng điểm tương đồng giữa Hiệp định Giơ-ne-vơ (1954) về Đông Dương và Hiệp định Pa-ri (1973) về Việt Nam?",
+    "options": {
+      "a": "Các nước đế quốc phải công nhận tính thống nhất của Việt Nam.",
+      "b": "Việt Nam thể hiện tính tự chủ và tự quyết trong đấu tranh ngoại giao.",
+      "c": "Là kết quả của các cuộc đàm phán diễn ra nhanh chóng, hài hòa.",
+      "d": "Là mốc đánh dấu kết thúc các cuộc chiến tranh xâm lược của kẻ thù."
+    },
+    "answer": "a",
+    "explanation": "Điểm cốt lõi nhất của cả hai Hiệp định này là đều buộc các nước đế quốc xâm lược (Pháp, Mỹ) phải cam kết tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ và tính thống nhất của Việt Nam."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Trong giai đoạn 1975-1985, Việt Nam thực hiện chính sách đối ngoại nào sau đây?",
+    "options": {
+      "a": "Hợp tác toàn diện với các nước xã hội chủ nghĩa.",
+      "b": "Bình thường hóa quan hệ ngoại giao với Mỹ.",
+      "c": "Hợp tác toàn diện với các nước tư bản chủ nghĩa.",
+      "d": "Bình thường hóa quan hệ ngoại giao với Trung Quốc."
+    },
+    "answer": "a",
+    "explanation": "Trong bối cảnh Chiến tranh lạnh và bị Mỹ bao vây cấm vận, chính sách đối ngoại chủ đạo của Việt Nam là gắn bó mật thiết và hợp tác toàn diện với Liên Xô cùng các nước xã hội chủ nghĩa khác."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Một trong những chính sách đối ngoại của Việt Nam giai đoạn 1975-1985 là",
+    "options": {
+      "a": "cải thiện quan hệ với các nước Đông Nam Á.",
+      "b": "tăng cường quan hệ toàn diện với Trung Quốc.",
+      "c": "đàm phán kết thúc chiến tranh với Mỹ.",
+      "d": "nâng quan hệ với Nga lên đối tác chiến lược."
+    },
+    "answer": "a",
+    "explanation": "Dù tình hình khu vực lúc đó còn nhiều căng thẳng, Việt Nam vẫn luôn chủ trương nỗ lực đối thoại và tìm cách cải thiện quan hệ láng giềng với các quốc gia trong khu vực Đông Nam Á (ASEAN)."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Trong giai đoạn 1975-1985, Việt Nam coi trọng phát triển quan hệ ngoại giao toàn diện với quốc gia nào sau đây?",
+    "options": {
+      "a": "Liên Xô.",
+      "b": "Anh.",
+      "c": "Mỹ.",
+      "d": "Pháp."
+    },
+    "answer": "a",
+    "explanation": "Liên Xô là cường quốc XHCN lớn nhất và là chỗ dựa vững chắc về kinh tế, quân sự của Việt Nam lúc bấy giờ, đỉnh cao là Hiệp ước hữu nghị và hợp tác Việt - Xô năm 1978."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Năm 1991, Việt Nam có hoạt động đối ngoại nổi bật nào sau đây?",
+    "options": {
+      "a": "Việt Nam và Trung Quốc bình thường hóa quan hệ ngoại giao.",
+      "b": "Phát triển quan hệ đối tác chiến lược toàn diện với Nhật Bản.",
+      "c": "Việt Nam và Hoa Kỳ đã bình thường hóa quan hệ ngoại giao.",
+      "d": "Việt Nam gia nhập Tổ chức Thương mại Thế giới (WTO)."
+    },
+    "answer": "a",
+    "explanation": "Tháng 11/1991, đoàn đại biểu cấp cao Việt Nam thăm Trung Quốc, hai bên chính thức ký kết Hiệp định bình thường hóa quan hệ ngoại giao, khép lại thời kì căng thẳng."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Năm 1995, Việt Nam có hoạt động đối ngoại nổi bật nào sau đây?",
+    "options": {
+      "a": "Việt Nam và Hoa Kỳ bình thường hóa quan hệ ngoại giao.",
+      "b": "Phát triển quan hệ đối tác chiến lược toàn diện với Ấn Độ.",
+      "c": "Việt Nam và Liên Xô ký Hiệp ước hữu ngị và hợp tác.",
+      "d": "Việt Nam gia nhập Tổ chức Thương mại Thế giới (WTO)."
+    },
+    "answer": "a",
+    "explanation": "Ngày 11/7/1995 (giờ Washington), Tổng thống Mỹ Bill Clinton tuyên bố bình thường hóa quan hệ ngoại giao với Việt Nam. Cùng ngày (12/7 giờ Hà Nội), Thủ tướng Võ Văn Kiệt cũng đưa ra tuyên bố tương tự."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Năm 1995, Việt Nam trở thành thành viên của tổ chức nào sau đây?",
+    "options": {
+      "a": "Hiệp hội các quốc gia Đông Nam Á (ASEAN).",
+      "b": "Liên minh chính trị - quân sự Vác-sa-va.",
+      "c": "Hội đồng tương trợ kinh tế (SEV).",
+      "d": "Tổ chức Thương mai Thế giới (WTO)."
+    },
+    "answer": "a",
+    "explanation": "Ngày 28/7/1995, tại Hội nghị Bộ trưởng Ngoại giao ASEAN lần thứ 28 tại Brunei, Việt Nam chính thức được kết nạp làm thành viên thứ 7 của ASEAN."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Trong thời kỳ Đổi mới (tháng 12-1986 đến nay), Việt Nam không ngừng củng cố, phát triển mối quan hệ hữu nghị, đặc biệt là với một trong những quốc gia nào sau đây?",
+    "options": {
+      "a": "Cu-ba.",
+      "b": "Thái Lan",
+      "c": "In-đô-nê-xi-a.",
+      "d": "Ma-lai-xi-a."
+    },
+    "answer": "a",
+    "explanation": "Mối quan hệ đoàn kết hữu nghị đặc biệt Việt Nam - Cuba luôn được Đảng, Nhà nước và nhân dân hai nước coi trọng, giữ gìn và phát triển mạnh mẽ qua mọi thời kì."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Quốc gia nào sau đây có quan hệ đối tác chiến lược toàn diện với Việt Nam trong thời kì Đổi mới (từ tháng 12-1986 đến nay)?",
+    "options": {
+      "a": "Ấn Độ.",
+      "b": "Anh.",
+      "c": "Pháp.",
+      "d": "Ma-lai-xi-a."
+    },
+    "answer": "a",
+    "explanation": "Năm 2016, nhân chuyến thăm Việt Nam của Thủ tướng Ấn Độ Narendra Modi, hai nước đã tuyên bố nâng cấp quan hệ lên tầm Đối tác chiến lược toàn diện."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Trong thời kì 1975-1985, hoạt động đối ngoại của Việt Nam diễn ra trong bối cảnh nào sau đây?",
+    "options": {
+      "a": "Việt Nam đã hoàn toàn thống nhất về lãnh thổ.",
+      "b": "Thế bao vây, cấm vận Việt Nam đã được dỡ bỏ.",
+      "c": "Cuộc kháng chiến chống Mỹ diễn ra quyết liệt.",
+      "d": "Miền Bắc xây dựng thành công chủ nghĩa xã hội."
+    },
+    "answer": "a",
+    "explanation": "Sau chiến thắng lịch sử mùa Xuân 1975, đất nước ta đã sạch bóng quân thù, Nam Bắc sum họp một nhà, tạo ra một thế và lực mới trên trường quốc tế."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Từ năm 1986 đến nay, hoạt động đối ngoại của Việt Nam diễn ra trong bối cảnh nào sau đây?",
+    "options": {
+      "a": "Xu thế khu vực hóa, toàn cầu hóa đã phát triển.",
+      "b": "Thế bao vây, cấm vận Việt Nam đã được dỡ bỏ.",
+      "c": "Cuộc Chiến tranh lạnh đã chấm dứt hoàn toàn.",
+      "d": "Cuộc kháng chiến chống Mỹ diễn ra quyết liệt."
+    },
+    "answer": "a",
+    "explanation": "Cuộc cách mạng khoa học công nghệ lần thứ tư bùng nổ đã thúc đẩy mạnh mẽ xu thế toàn cầu hóa và khu vực hóa, đòi hỏi nền ngoại giao Việt Nam phải hội nhập sâu rộng."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Nội dung nào sau đây là một trong những căn cứ để Đảng Cộng sản Việt Nam điều chỉnh đường lối đối ngoại trong thời kì Đổi mới (từ năm 1986)?",
+    "options": {
+      "a": "Việt Nam đang gặp bất lợi trong quan hệ quốc tế.",
+      "b": "Chủ nghĩa xã hội ở Liên Xô đang phát triển mạnh.",
+      "c": "Hiệp hội các quốc gia Đông Nam Á vừa thành lập.",
+      "d": "Đất nước đang bị lực lượng Khơ-me Đỏ chống phá."
+    },
+    "answer": "a",
+    "explanation": "Trước năm 1986, đất nước rơi vào khủng hoảng kinh tế trầm trọng, lại bị Mỹ bao vây cấm vận, quan hệ quốc tế bị thu hẹp đáng kể. Sự bất lợi này buộc Đảng ta phải đổi mới tư duy, thực hiện chính sách ngoại giao đa phương hóa, đa dạng hóa."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Các hoạt động đối ngoại của Việt Nam thời kì Đổi mới (từ năm 1986 đến nay) không có tác động nào sau đây?",
+    "options": {
+      "a": "Bước đầu thiết lập quan hệ với cách mạng thế giới.",
+      "b": "Nâng cao vị thế của Việt Nam trên trường quốc tế.",
+      "c": "Bảo vệ vững chắc chủ quyền lãnh thổ của Tổ quốc.",
+      "d": "Thúc đẩy sự phát triển của kinh tế, văn hóa và xã hội."
+    },
+    "answer": "a",
+    "explanation": "Việc 'bước đầu thiết lập quan hệ với cách mạng thế giới' đã được Nguyễn Ái Quốc và Đảng ta thực hiện thành công từ những năm 1920-1930, không phải là tác động mới của thời kỳ Đổi mới."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Việt Nam có đóng góp nào sau đây đối với cộng đồng quốc tế từ sau năm 1986?",
+    "options": {
+      "a": "Tham gia hỗ trợ nhận đạo, giúp đỡ các quốc gia khó khăn.",
+      "b": "Gửi quân đội trực tiếp tham chiến chống Mỹ ở châu Phi.",
+      "c": "Đảm nhận vị trí thường trực Hội đồng Bảo an Liên hợp quốc.",
+      "d": "Viện trợ vũ khí cho phong trào đấu tranh giải phóng dân tộc."
+    },
+    "answer": "a",
+    "explanation": "Việt Nam đã và đang tích cực cử các lực lượng gìn giữ hòa bình Liên hợp quốc, tham gia các hoạt động hỗ trợ nhân đạo, y tế, cứu trợ tại các quốc gia đang gặp khủng hoảng (Nam Sudan, Trung Phi...)."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Nội dung nào sau đây phản ánh đúng chủ trương đường lối động đối ngoại của Việt Nam trong thời kỳ Đổi mới (từ 1986 đến nay)?",
+    "options": {
+      "a": "Kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
+      "b": "Liên minh quân sự với các nước trong khu vực.",
+      "c": "Kết hợp sức mạnh thời đại với sức mạnh khu vực",
+      "d": "Liên minh chính trị với các nước Đông Nam Á."
+    },
+    "answer": "a",
+    "explanation": "Đây là bài học lớn xuyên suốt của cách mạng Việt Nam: phát huy tối đa sức mạnh nội lực (sức mạnh dân tộc) đồng thời chủ động hội nhập, tranh thủ các xu thế tiến bộ của thế giới (sức mạnh thời đại)."
+  },
+  {
+    "topic": "Vận dụng kiến thức, kĩ năng đã học",
+    "question": "Tại Đại hội đại biểu toàn quốc lần thứ VII (1991), định hướng ngoại giao của Đảng Cộng sản Việt Nam đã nhấn mạnh nguyên tắc nào sau đây trong quan hệ quốc tế để đảm bảo lợi ích và phát triển bền vững của đất nước?",
+    "options": {
+      "a": "Cùng tồn tại hòa bình, hợp tác trên cơ sở bình đẳng và cùng có lợi không phân biệt chế độ.",
+      "b": "Hợp tác quốc tế chỉ với các nước xã hội chủ nghĩa và các nước có cùng hệ thống chính trị.",
+      "c": "Ưu tiên thiết lập quan hệ đối tác chiến lược với các nước có hệ thống chính trị tương đồng.",
+      "d": "Chỉ hợp tác với các nước phát triển kinh tế mạnh, không quan tâm đến hệ thống chính trị."
+    },
+    "answer": "a",
+    "explanation": "Đại hội VII khẳng định phương châm 'Việt Nam muốn là bạn với tất cả các nước trong cộng đồng thế giới, phấn đấu vì hòa bình, độc lập và phát triển', sẵn sàng hợp tác với các quốc gia khác biệt về chế độ chính trị."
+  },
+  {
+    "topic": "Vận dụng kiến thức, kĩ năng đã học",
+    "question": "Nội dung nào sau đây phản ánh đúng quan điểm, lập trường về đường lối hoạt động đối ngoại của Việt Nam trong xu thế hội nhập quốc tế hiện nay?",
+    "options": {
+      "a": "Không chọn bên, mà chọn công lý và lẽ phải.",
+      "b": "Chọn đối tác, không chọn đối tượng hợp tác.",
+      "c": "Không láng giềng gần, mà chọn bạn ở xa.",
+      "d": "Chọn bên, chọn đối tác và công lý, lẽ phải."
+    },
+    "answer": "a",
+    "explanation": "Trường phái ngoại giao 'Cây tre Việt Nam' kiên định nguyên tắc bảo vệ lợi ích quốc gia - dân tộc, tôn trọng luật pháp quốc tế, thể hiện rõ lập trường không hùa theo phe phái mà luôn đứng về phía công lý, lẽ phải."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Một trong những phẩm chất tốt đẹp của xứ Nghệ đã được Chủ tịch Hồ Chí Minh tiếp thu và thể hiện rõ nét trong cuộc đời hoạt động các mạng là",
+    "options": {
+      "a": "ý chí trong học tập.",
+      "b": "trọng nghĩa khinh tài.",
+      "c": "giỏi nghề thủ công.",
+      "d": "kinh nghiệm đi biển."
+    },
+    "answer": "a",
+    "explanation": "Quê hương Nghệ An vốn nổi tiếng với truyền thống hiếu học. Tinh thần không ngừng học hỏi để làm giàu trí tuệ đã được Bác duy trì và phát huy trong suốt cả cuộc đời."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Một trong những ngôi trường mà Chủ tịch Hồ Chí Minh từng theo học thuở nhỏ là",
+    "options": {
+      "a": "Quốc học Huế.",
+      "b": "Hoàng Phố.",
+      "c": "Quốc Tử giám.",
+      "d": "Đồng Khánh."
+    },
+    "answer": "a",
+    "explanation": "Khoảng năm 1908, Nguyễn Tất Thành từng theo học tại trường Quốc học Huế, nơi nuôi dưỡng lòng yêu nước và cho Người tiếp xúc sớm với văn hóa, tư tưởng phương Tây."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Tháng 6-1925, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên khi đang hoạt động ở quốc gia nào sau đây?",
+    "options": {
+      "a": "Trung Quốc.",
+      "b": "Pháp.",
+      "c": "Liên Xô.",
+      "d": "Việt Nam."
+    },
+    "answer": "a",
+    "explanation": "Tháng 6/1925, trên cơ sở nhóm Thanh niên Cộng sản đoàn, Nguyễn Ái Quốc đã thành lập Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu (Trung Quốc)."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Trong thời gian ở Pháp (1917-1923), Nguyễn Ái Quốc có hoạt động nào sau đây?",
+    "options": {
+      "a": "Tham gia sáng lập Hội Liên hiệp các dân tộc thuộc địa.",
+      "b": "Tham dự Đại hội V của Quốc tế Cộng sản.",
+      "c": "Soạn thảo Cương lĩnh chính trị đầu tiên của Đảng.",
+      "d": "Chủ trì hội nghị hợp nhất các tổ chức cộng sản."
+    },
+    "answer": "a",
+    "explanation": "Năm 1921 tại Paris, Người cùng một số nhà hoạt động cách mạng các nước thuộc địa khác của Pháp đã tham gia sáng lập Hội Liên hiệp thuộc địa."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Đầu năm 1930, Nguyễn Ái Quốc đã có hoạt động nào sau đây?",
+    "options": {
+      "a": "Hợp nhất các tổ chức cộng sản.",
+      "b": "Thành lập Mặt trận Việt Minh.",
+      "c": "Soạn thảo Luận cương chính trị.",
+      "d": "Trở về nước lãnh đạo cách mạng."
+    },
+    "answer": "a",
+    "explanation": "Từ ngày 6/1 đến 7/2/1930 tại Cửu Long (Hương Cảng, Trung Quốc), Bác đã chủ trì Hội nghị hợp nhất ba tổ chức cộng sản đang chia rẽ thành một đảng duy nhất lấy tên là Đảng Cộng sản Việt Nam."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Tổ chức nào sau đây được thành lập theo quyết định của Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương (5-1941) do Nguyễn Ái Quốc chủ trì?",
+    "options": {
+      "a": "Việt Nam Độc lập Đồng minh.",
+      "b": "Đảng Lao động Việt Nam.",
+      "c": "Tân Việt Cách mạng đảng.",
+      "d": "Mặt trận Dân chủ Đông Dương."
+    },
+    "answer": "a",
+    "explanation": "Ngày 19/5/1941, theo nghị quyết của Hội nghị TW8, Mặt trận Việt Nam Độc lập Đồng minh (gọi tắt là Việt Minh) được thành lập nhằm hiệu triệu mọi tầng lớp nhân dân cùng đứng lên đánh Pháp, đuổi Nhật."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Ngày 22-12-1944, lực lượng vũ trang nào sau đây được thành lập theo Chỉ thị của Hồ Chí Minh?",
+    "options": {
+      "a": "Đội Việt Nam Tuyên truyền Giải phóng quân.",
+      "b": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam.",
+      "c": "Quân đội nhân dân Việt Nam.",
+      "d": "Đội Việt Nam Giải phóng quân."
+    },
+    "answer": "a",
+    "explanation": "Thực hiện Chỉ thị của Bác, Đội Việt Nam Tuyên truyền Giải phóng quân (tiền thân của Quân đội nhân dân Việt Nam) được thành lập tại khu rừng Trần Hưng Đạo (Cao Bằng) do Võ Nguyên Giáp chỉ huy."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Năm 1945, Nguyễn Ái Quốc có hoạt động nào sau đây?",
+    "options": {
+      "a": "Phát động và lãnh đạo nhân dân Tổng khởi nghĩa giành chính quyền.",
+      "b": "Lãnh đạo nhân dân Việt Nam tiến hành kháng chiến chống Pháp và Mỹ.",
+      "c": "Xây dựng và hoàn thiện đường lối giải phóng dân tộc ở Việt Nam.",
+      "d": "Triệu tập và chủ trì hội nghị hợp nhất các tổ chức cộng sản ở Việt Nam."
+    },
+    "answer": "a",
+    "explanation": "Giữa tháng 8/1945, Bác chủ trì Quốc dân Đại hội Tân Trào, ra Lệnh Tổng khởi nghĩa, trực tiếp lãnh đạo toàn dân làm nên Cách mạng tháng Tám thành công."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Cuối thế kỉ XIX, hoàn cảnh nào sau đây của đất nước Việt Nam đã ảnh hưởng đến cuộc đời và sự nghiệp của Hồ Chí Minh?",
+    "options": {
+      "a": "Thực dân Pháp đã đặt được ách cai trị trên toàn lãnh thổ Việt Nam.",
+      "b": "Phong trào đấu tranh theo khuynh hướng vô sản diễn ra rộng khắp.",
+      "c": "Cách mạng Việt Nam đi theo con đường cách mạng vô sản.",
+      "d": "Thực dân Pháp hoàn thành cuộc khai thác thuộc địa lần thứ nhất."
+    },
+    "answer": "a",
+    "explanation": "Sinh ra trong bối cảnh nước mất nhà tan, Pháp đã hoàn thành xâm lược và áp đặt ách thống trị hà khắc lên toàn cõi Việt Nam, nỗi đau mất nước đã hun đúc lòng yêu nước và thôi thúc Người ra đi tìm đường cứu nước."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Nội dung nào sau đây đúng về hoàn cảnh gia đình đã ảnh hưởng đến cuộc đời và sự nghiệp của Hồ Chí Minh?",
+    "options": {
+      "a": "Thân phụ là một tấm gương sáng về ý chí vượt khó.",
+      "b": "Thân mẫu từng thi đỗ cử nhân tại trường thi Nghệ An.",
+      "c": "Thân phụ là người tham gia khởi xướng phong trào Đông Du.",
+      "d": "Thân phụ đã từng tích cực tham gia cuộc vận động Duy tân."
+    },
+    "answer": "a",
+    "explanation": "Cụ Phó bảng Nguyễn Sinh Sắc (thân phụ của Bác) xuất thân bần nông, mồ côi sớm nhưng bằng ý chí học tập sắt đá đã thi đỗ Phó bảng. Tấm gương vượt khó này đã ảnh hưởng rất lớn tới nhân cách của Bác."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Năm 1920, khi đang hoạt động ở Pháp, Nguyễn Ái Quốc đã có đóng góp nào sau đây đối với lịch sử dân tộc Việt Nam?",
+    "options": {
+      "a": "Tìm ra con đường cứu nước theo khuynh hướng vô sản.",
+      "b": "Chủ trì hội nghị hợp nhất các tổ chức cộng sản.",
+      "c": "Thành lập Hội Việt Nam cách mạng thanh niên.",
+      "d": "Lãnh đạo cuộc khởi nghĩa vũ trang giành chính quyền."
+    },
+    "answer": "a",
+    "explanation": "Tháng 7/1920, qua việc đọc 'Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa' của V.I. Lênin, Bác đã tìm ra ánh sáng chân lý cứu nước: con đường cách mạng vô sản."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Khi hoạt động tại Quảng Châu (Trung Quốc), Nguyễn Ái Quốc đã lựa chọn một số thanh niên ưu tú trong tổ chức Tâm tâm xã lập là những người",
+    "options": {
+      "a": "có tinh thần yêu nước, có chí hướng quyết tâm giải phóng dân tộc.",
+      "b": "từng tham gia vào vụ ám sát Toàn quyền Đông Dương - Méclanh.",
+      "c": "đã tham gia vào tổ chức Việt Nam Quang phục hội tại Quảng Châu.",
+      "d": "thấm nhuần lí luận về chủ nghĩa Mác – Lênin và cách mạng vô sản."
+    },
+    "answer": "a",
+    "explanation": "Nhóm thanh niên Tâm tâm xã (Lê Hồng Phong, Hồ Tùng Mậu, Lê Hồng Sơn...) tuy chưa thấm nhuần chủ nghĩa Mác - Lênin lúc bấy giờ, nhưng họ đều là những người mang bầu nhiệt huyết, có lòng yêu nước và ý chí căm thù giặc cao độ."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Trong thời gian ở Quảng Châu (Trung Quốc) từ năm 1924 đến năm 1927, Nguyễn Ái Quốc có hoạt động nào sau đây nhằm chuẩn bị cho bước chuyển biến về chất của phong trào giải phóng dân tộc Việt Nam?",
+    "options": {
+      "a": "Trang bị lí luận cách mạng cho đội ngũ cán bộ nòng cốt.",
+      "b": "Trực tiếp tạo ra sự phân hóa trong các tổ chức tiền cộng sản.",
+      "c": "Khởi đầu tạo dựng các mối quan hệ với cách mạng thế giới.",
+      "d": "Bắt đầu xây dựng đường lối kháng chiến, giải phóng dân tộc."
+    },
+    "answer": "a",
+    "explanation": "Thông qua các lớp huấn luyện chính trị (các bài giảng sau in thành cuốn Đường Kách mệnh), Bác đã truyền bá chủ nghĩa Mác - Lênin, vũ trang lý luận cách mạng cho lớp cán bộ đầu tiên để họ về nước lãnh đạo phong trào."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Sự kiện Nguyễn Ái Quốc tham dự Đại hội XVIII (12-1920) của Đảng Xã hội Pháp, bỏ phiếu tán thành Quốc tế Cộng sản và tham gia thành lập Đảng Cộng sản Pháp có ý nghĩa nào sau đây đối với cách mạng Việt Nam?",
+    "options": {
+      "a": "Đánh dấu bước ngoặt trong quá trình tìm đường cứu nước của Nguyễn Ái Quốc.",
+      "b": "Khẳng định vai trò lãnh đạo của Đảng Cộng sản Pháp trong cách mạng Việt Nam.",
+      "c": "Đặt nền móng cho việc thành lập Đảng Cộng sản Đông Dương sau này.",
+      "d": "Khẳng định sự ủng hộ của Quốc tế Cộng sản đối với cách mạng Việt Nam."
+    },
+    "answer": "a",
+    "explanation": "Sự kiện này đánh dấu một bước ngoặt vĩ đại trong cuộc đời Bác: từ một người yêu nước chân chính trở thành một người cộng sản, đồng thời mở đường đưa cách mạng Việt Nam đi theo quỹ đạo của cách mạng vô sản thế giới."
+  },
+  {
+    "topic": "Vận dụng kiến thức, kĩ năng",
+    "question": "Hoạt động của Nguyễn Tất Thành từ 1911 - 1920 để lại bài học nào sau đây cho thế hệ trẻ Việt Nam hiện nay?",
+    "options": {
+      "a": "Tinh thần vượt khó, vượt khổ.",
+      "b": "Tinh thần đoàn kết quốc tế vô sản.",
+      "c": "Đấu tranh vũ trang giữ chính quyền.",
+      "d": "Hướng ngoại để lao động, học tập."
+    },
+    "answer": "a",
+    "explanation": "Rời bến cảng Nhà Rồng với hai bàn tay trắng, làm phụ bếp, quét tuyết... để mưu sinh và tự học, Bác là tấm gương sáng chói về tinh thần dũng cảm, vượt qua mọi nghịch cảnh để theo đuổi lý tưởng."
+  },
+  {
+    "topic": "Vận dụng kiến thức, kĩ năng",
+    "question": "Một trong những yếu tố nào sau đây đã góp phần tạo nên “đạo đức, trí tuệ, nhân cách” và sự nghiệp của Chủ tịch Hồ Chí Minh?",
+    "options": {
+      "a": "Quá trình học tập và sự tiếp thu tri thức không ngừng.",
+      "b": "Kinh nghiệm lãnh đạo và chiến đấu cách mạng.",
+      "c": "Sự tham gia vào các phong trào cách mạng quốc tế.",
+      "d": "Những năm tháng trải qua khó khăn trong cuộc sống."
+    },
+    "answer": "a",
+    "explanation": "Bác thông thạo nhiều ngoại ngữ, am hiểu sâu rộng văn hóa Đông - Tây. Chính quá trình bền bỉ tự học và tiếp thu tinh hoa nhân loại đã hun đúc nên trí tuệ và nhân cách lỗi lạc của Người."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Trong quá trình ra đi tìm đường cứu nước từ 1911 đến 1930, Nguyễn Tất Thành không đặt chân đến quốc gia nào sau đây?",
+    "options": {
+      "a": "Nhật Bản.",
+      "b": "Trung Quốc.",
+      "c": "Liên Xô.",
+      "d": "Thái Lan."
+    },
+    "answer": "a",
+    "explanation": "Bác đã đi qua nhiều châu lục (Âu, Á, Phi, Mỹ), từng sống và làm việc ở Pháp, Liên Xô, Trung Quốc, Thái Lan... nhưng chưa từng đặt chân đến Nhật Bản trong giai đoạn này."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Năm 1941, sau khi về nước, Nguyễn Ái Quốc đã chọn nơi nào sau đây để xây dựng thành căn cứ địa cách mạng?",
+    "options": {
+      "a": "Cao Bằng.",
+      "b": "Tuyên Quang.",
+      "c": "Tân Trào.",
+      "d": "Lạng Sơn."
+    },
+    "answer": "a",
+    "explanation": "Ngày 28/1/1941, Bác trở về Tổ quốc và chọn hang Pác Bó (xã Trường Hà, huyện Hà Quảng, tỉnh Cao Bằng) làm nơi xây dựng căn cứ địa, trực tiếp lãnh đạo cách mạng."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Tháng 6-1945, theo Chỉ thị của Hồ Chí Minh, căn cứ địa cách mạng nào sau đây được thành lập?",
+    "options": {
+      "a": "Khu Giải phóng Việt Bắc.",
+      "b": "Căn cứ Bắc Sơn-Võ Nhai.",
+      "c": "Trung ương Cục miền Nam.",
+      "d": "Chiến khu D-Tây Ninh."
+    },
+    "answer": "a",
+    "explanation": "Ngày 4/6/1945, Khu Giải phóng Việt Bắc chính thức được thành lập, bao gồm 6 tỉnh: Cao Bằng, Bắc Kạn, Lạng Sơn, Hà Giang, Tuyên Quang, Thái Nguyên (gọi tắt là Cao-Bắc-Lạng-Hà-Tuyên-Thái)."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Trong những năm 1941 đến năm 1945, Chủ tịch Hồ Chí Minh có hoạt động nào sau đây?",
+    "options": {
+      "a": "Chủ trì Đại hội Quốc dân họp ở Tân Trào (Tuyên Quang).",
+      "b": "Ra lời kêu gọi toàn quốc kháng chiến chống thực dân Pháp.",
+      "c": "Ký với đại diện Chính phủ Pháp bản Hiệp định Sơ bộ.",
+      "d": "Chủ tịch Hồ Chí Minh sang Pháp vận động ngoại giao."
+    },
+    "answer": "a",
+    "explanation": "Ngày 16-17/8/1945, Chủ tịch Hồ Chí Minh đã chủ trì Quốc dân Đại hội Tân Trào, tán thành chủ trương Tổng khởi nghĩa và bầu ra Ủy ban Dân tộc giải phóng Việt Nam."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Sau Cách mạng tháng Tám năm 1945 ở Việt Nam, để giải quyết nạn đói, Chủ tịch Hồ Chí Minh đã",
+    "options": {
+      "a": "Kêu gọi nhân dân “nhường cơm sẻ áo”.",
+      "b": "Ký sắc lệnh thành lập Nha bình dân học vụ.",
+      "c": "Kêu gọi nhân dân ủng hộ Tuần lễ vàng.",
+      "d": "Gửi lời kêu gọi quốc dân đi bỏ phiếu."
+    },
+    "answer": "a",
+    "explanation": "Để cứu đói khẩn cấp, Bác đã ra lời kêu gọi đồng bào cả nước phát huy tinh thần tương thân tương ái 'nhường cơm sẻ áo', phát động lập 'Hũ gạo cứu đói' và 'Ngày đồng tâm'."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Sau Cách mạng tháng Tám năm 1945 ở Việt Nam, để giải quyết khó khăn về tài chính, Chủ tịch Hồ Chí Minh đã",
+    "options": {
+      "a": "Kêu gọi nhân dân ủng hộ Tuần lễ vàng.",
+      "b": "Kêu gọi nhân dân “Nhường cơm sẻ áo”.",
+      "c": "Ký sắc lệnh thành lập Nha bình dân học vụ.",
+      "d": "Gửi lời kêu gọi quốc dân đi bỏ phiếu."
+    },
+    "answer": "a",
+    "explanation": "Khi ngân khố quốc gia trống rỗng, Chính phủ đã tổ chức 'Tuần lễ vàng' và 'Quỹ độc lập', được nhân dân nhiệt liệt hưởng ứng đóng góp vàng, tiền để ủng hộ chính quyền mới."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Sau Cách mạng tháng Tám năm 1945 ở Việt Nam, để giải quyết nạn dốt, Chủ tịch Hồ Chí Minh đã",
+    "options": {
+      "a": "Ký sắc lệnh thành lập Nha bình dân học vụ.",
+      "b": "Kêu gọi nhân dân ủng hộ Tuần lễ vàng.",
+      "c": "Kêu gọi nhân dân “Nhường cơm sẻ áo”.",
+      "d": "Gửi lời kêu gọi quốc dân đi bỏ phiếu."
+    },
+    "answer": "a",
+    "explanation": "Ngày 8/9/1945, Bác ban hành Sắc lệnh thành lập Nha Bình dân học vụ để chăm lo công tác xóa mù chữ cho người dân, với tinh thần 'người biết chữ dạy người chưa biết chữ'."
+  },
+  {
+    "topic": "Tìm hiểu lịch sử",
+    "question": "Tháng 12-1946, khi mọi nhân nhượng của Việt Nam đối với thực dân Pháp đã đi đến giới hạn cuối cùng, Chủ tịch Hồ Chí Minh thay mặt Trung ương Đảng và Chính phủ đã",
+    "options": {
+      "a": "ra Lời kêu gọi toàn quốc kháng chiến.",
+      "b": "Ký với thực dân Pháp Hiệp định Sơ bộ.",
+      "c": "phát động nhân dân Nam bộ kháng chiến.",
+      "d": "trực tiếp sang Pháp để vận động ngoại giao."
+    },
+    "answer": "a",
+    "explanation": "Khi thực dân Pháp liên tiếp bội ước, gửi tối hậu thư đòi ta tước vũ khí, đêm 19/12/1946, Chủ tịch Hồ Chí Minh đã viết Lời kêu gọi toàn quốc kháng chiến, chính thức mở đầu cuộc kháng chiến chống Pháp."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Nội dung nào sau đây là ý nghĩa của sự kiện Nguyễn Ái Quốc tìm ra con đường cứu nước năm 1920?",
+    "options": {
+      "a": "Bước đầu giải quyết khủng hoảng về đường lối giải phóng dân tộc.",
+      "b": "Đưa cách mạng Việt Nam đi theo khuynh hướng tư sản.",
+      "c": "Mở ra con đường cứu nước theo khuynh hướng dân chủ vô sản.",
+      "d": "Chuẩn bị đủ các điều kiện cho việc thành lập Đảng Cộng sản Đông Dương"
+    },
+    "answer": "a",
+    "explanation": "Sự kiện này đã đánh dấu mốc quan trọng, giải quyết triệt để sự bế tắc, khủng hoảng về đường lối cứu nước mà các sĩ phu yêu nước tiền bối chưa làm được."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Một trong những vai trò của Nguyễn Ái Quốc đối với công cuộc chuẩn bị cho giải phóng dân tộc Việt Nam (1941-1945) là",
+    "options": {
+      "a": "thành lập mặt trận dân tộc thống nhất của riêng Việt Nam.",
+      "b": "thống nhất các tổ chức cộng sản thành một đảng duy nhất.",
+      "c": "xác định nhiệm vụ duy nhất của cách mạng tư sản dân quyền.",
+      "d": "hoàn chỉnh lí luận cách mạng giải phóng dân tộc Việt Nam."
+    },
+    "answer": "a",
+    "explanation": "Theo sáng kiến của Bác, Hội nghị TW8 (1941) đã quyết định thành lập Mặt trận Việt Minh. Đây là mặt trận dân tộc thống nhất đầu tiên mang tầm vóc của riêng Việt Nam nhằm tập hợp tối đa sức mạnh toàn dân."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Những hoạt động tích cực của Chủ tịch Hồ Chí Minh trong kháng chiến chống thực dân Pháp (1945 - 1954) đã đưa đến kết quả nào sau đây?",
+    "options": {
+      "a": "Việt Nam nhận được sự ủng hộ, giúp đỡ to lớn của Trung Quốc, Liên Xô.",
+      "b": "Việt Nam nhận được sự giúp đỡ to lớn của các nước xã hội chủ nghĩa Tây Âu.",
+      "c": "Việt Nam giành thắng lợi trên bản đảm phán tại Hội nghị Pa-ri.",
+      "d": "Việt Nam đàm phán độc lập với các nước trong Hội nghị Giơ-ne-vơ."
+    },
+    "answer": "a",
+    "explanation": "Nhờ đường lối đối ngoại sáng suốt do Bác dẫn dắt, đầu năm 1950, ta đã phá vỡ thế bao vây cô lập, chính thức nhận được viện trợ vật chất và tinh thần to lớn từ Liên Xô, Trung Quốc."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Nội dung nào sau đây thể hiện việc Nguyễn Ái Quốc chuẩn bị về tư tưởng, chính trị cho sự ra đời của Đảng Cộng sản Việt Nam?",
+    "options": {
+      "a": "Mở các lớp huấn luyện, đào tạo cán bộ cách mạng tại Trung Quốc.",
+      "b": "Chủ nhiệm kiêm chủ bút báo Nhân đạo, Đời sống công nhân.",
+      "c": "Xây dựng lí luận về đi lên chủ nghĩa xã hội ở miền Bắc.",
+      "d": "Đào tạo cán bộ thực hiện các cuộc khởi nghĩa vũ trang."
+    },
+    "answer": "a",
+    "explanation": "Tại Quảng Châu, Bác trực tiếp giảng dạy tại các lớp huấn luyện để trang bị lý luận chủ nghĩa Mác-Lênin cho thế hệ thanh niên ưu tú. Các bài giảng này tạo nền tảng chính trị tư tưởng vững chắc để chuẩn bị tiến tới thành lập Đảng."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Nội dung nào sau đây phản ánh đúng về vai trò của Nguyễn Ái Quốc trong việc thành lập Đảng Cộng sản Việt Nam (1930)?",
+    "options": {
+      "a": "Triệu tập và chủ trì Hội nghị thành lập Đảng Cộng sản Việt Nam.",
+      "b": "Triệu tập hội nghị thống nhất các tổ chức cộng sản tại Cao Bằng.",
+      "c": "Soạn thảo Đường Kách mệnh- Cương lĩnh của Đảng Cộng sản Việt Nam.",
+      "d": "Triệu tập và chủ trì Đại hội thành lập Đảng tại Ma Cao (Trung Quốc)."
+    },
+    "answer": "a",
+    "explanation": "Với tư cách phái viên của Quốc tế Cộng sản, Bác là người đã chủ động triệu tập, chủ trì thành công Hội nghị hợp nhất và trực tiếp soạn thảo Chính cương, Sách lược vắn tắt đầu tiên của Đảng."
+  },
+  {
+    "topic": "Nhận thức và tư duy lịch sử",
+    "question": "Nội dung nào sau đây phản ánh đúng vai trò của Chủ tịch Hồ Chí Minh trong cuộc kháng chiến chống Mỹ, cứu nước (1954-1975)?",
+    "options": {
+      "a": "Là biểu tượng đoàn kết và có vai trò to lớn trong đấu tranh ngoại giao.",
+      "b": "Trực tiếp lãnh đạo cuộc kháng chiến chống Mỹ đi đến thắng lợi cuối cùng.",
+      "c": "Đề ra đường lối kháng chiến toàn dân, toàn diện, lâu dài và tự lực cánh sinh.",
+      "d": "Trực tiếp ra mặt trận theo dõi diễn biến chiến dịch Xuân Mậu Thân 1968."
+    },
+    "answer": "a",
+    "explanation": "Trong kháng chiến chống Mỹ, Bác là linh hồn, là ngọn cờ tập hợp khối đại đoàn kết toàn dân tộc và có ảnh hưởng to lớn trong việc kêu gọi sự ủng hộ của nhân dân yêu chuộng hòa bình thế giới."
+  },
+  {
+    "topic": "Vận dụng kiến thức, kĩ năng",
+    "question": "Nội dung nào sau đây là một trong những điểm sáng tạo của Nguyễn Ái Quốc trong quá trình chuẩn bị thành lập Đảng Cộng sản Việt Nam vào những năm 20 của thế kỉ XX?",
+    "options": {
+      "a": "Xác định lực lượng cách mạng không chỉ có công - nông dân.",
+      "b": "Xác định công nhân là lực lượng lãnh đạo giải phóng dân tộc.",
+      "c": "Khẳng định sự cần thiết phải xây dựng đảng vô sản thống nhất.",
+      "d": "Xây dựng lí luận giải phóng giai cấp, tiến lên xã hội cộng sản."
+    },
+    "answer": "a",
+    "explanation": "Vận dụng sáng tạo chủ nghĩa Mác-Lênin vào thực tiễn Việt Nam, Bác chỉ rõ lực lượng cách mạng không chỉ giới hạn ở liên minh công-nông mà còn bao gồm cả tư sản dân tộc, địa chủ vừa và nhỏ, tiểu tư sản... để tạo nên sức mạnh đại đoàn kết."
+  },
+  {
+    "topic": "Vận dụng kiến thức, kĩ năng",
+    "question": "Cho đoạn tư liệu: “Kể từ khi thực dân Pháp xâm lược, các phong trào yêu nước của nhân dân Việt Nam đã diễn ra liên tục và anh dũng, sử dụng nhiều con đường cứu nước khác nhau, nhưng không giành được thắng lợi. Sự nghiệp giải phóng dân tộc “lâm vào một tình hình đen tối tưởng như không có đường ra”. (Vũ Quang Hiển (Chủ biên), Tuyên ngôn Độc lập: Những khát vọng về về quyền dân tộc và quyền con người, NXB Đại học Quốc gia Hà Nội, Hà Nội, 2013, tr.108)\nĐoạn tư liệu trên phản ánh thực tiễn nào của sự nghiệp giải phóng dân tộc ở Việt Nam?",
+    "options": {
+      "a": "Cách mạng Việt Nam đang lâm vào khủng hoảng về đường lối và giai cấp lãnh đạo.",
+      "b": "Cách mạng Việt Nam chưa tìm thấy con đường cứu nước và chưa có giai cấp lãnh đạo.",
+      "c": "Con đường cứu nước theo khuynh hướng dân chủ tư sản chưa được du nhập vào Việt Nam.",
+      "d": "Nhân dân Việt Nam thiếu quyết tâm chống Pháp để giành độc lập tự do cho dân tộc."
+    },
+    "answer": "a",
+    "explanation": "Đoạn trích mô tả tình cảnh bế tắc của đất nước trước năm 1930, khi các phong trào yêu nước theo khuynh hướng phong kiến hay dân chủ tư sản đều thất bại vì thiếu một đường lối cách mạng đúng đắn và một giai cấp tiên phong đủ khả năng lãnh đạo."
+  }
+]
