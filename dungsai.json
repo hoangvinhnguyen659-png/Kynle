@@ -1,1 +1,470 @@
-
+[
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Phan Bội Châu là người đã khởi xướng phong trào Đông Du, đồng thời chính ông là người mở đầu cho mối quan hệ Việt Nam - Nhật Bản, trong những thập niên đầu của thế kỷ XX. Mục đích của phong trào Đông Du là lựa chọn “những thanh niên học sinh thông minh, hiếu học, chịu đựng gian khổ, quen khó nhọc, quyết chí bền gan, không bao giờ thay đổi chí hướng”. Để thực hiện cho ý định này, tháng 7-1905 Phan Bội Châu đã đến Nhật Bản để thu xếp cho những thanh niên ưu tú, yêu nước của Việt Nam sang học tập tại Tokyo, nhằm đào tạo nhân tài cho đất nước, tiến kịp với văn minh trên thế giới”.",
+    "subQuestions": [
+      {
+        "content": "Phan Bội Châu là người khởi đầu cho mối quan hệ giữa Việt Nam với Nhật Bản trong những năm đầu của thế ki XX.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Mục đích của phong trào Đông Du là đưa thanh niên Việt Nam sang học tập ở Nhật Bản sau đó đưa về nước hoạt động đấu tranh giành độc lập.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Chủ trương cứu nước của Phan Bội Châu là bất bạo động, tiến hành dựa vào Nhật Bản để vận động cải cách cứu nước, cứu dân.",
+        "answer": "Sai",
+        "explanation": "Phan Bội Châu chủ trương bạo động, còn Phan Châu Trinh mới chủ trương cải cách/bất bạo động."
+      },
+      {
+        "content": "Chủ trương cứu nước của Phan Bội Châu đã đặt nền tảng cho Nguyễn Ái Quốc lựa chọn con đường cứu nước đúng đắn cho dân tộc Việt Nam sau này.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\nTừ năm 1930 -1945, hoạt động đối ngoại của Đảng Cộng sản Đông Dương nhằm xác lập củng cố quan hệ với các Đảng cộng sản và phong trào đấu tranh của giai cấp vô sản thế giới, phục vụ cuộc đấu tranh giải phóng dân tộc của nhân dân Việt Nam. Đảng Cộng sản Đông Dương và Mặt trận Việt Minh chú trọng triển khai các hoạt động đối ngoại nhằm thiết lập quan hệ với các nước Đồng minh chống phát xít, trước hết là Trung Quốc và Mỹ. Bên cạnh đó, Mặt trận Việt Minh và Hồ Chí Minh đã tiếp xúc với người Mỹ, thể hiện thiện chí của Mặt trận Việt Minh muốn tìm kiếm một giải pháp cho vấn đề Đông Dương.",
+    "subQuestions": [
+      {
+        "content": "Hoạt động đối ngoại của Đảng Cộng sản Đông Dương trong những năm 1930-1945 nhằm mở rộng quan hệ với lực lượng phát xít ở Đông Nam Á.",
+        "answer": "Sai",
+        "explanation": "Mục tiêu là chống phát xít."
+      },
+      {
+        "content": "Quan điểm đối ngoại của Đảng Cộng sản Đông Dương trong thời kì chiến tranh thế giới thứ hai (1939-1945) là đứng về phe Đồng minh chống phát xít.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Mặt trận Việt Minh và Hồ Chí Minh tích cực tiếp cận với người Mỹ nhằm tìm kiếm một giải pháp hòa bình cho các quốc gia Đông Nam Á.",
+        "answer": "Sai",
+        "explanation": "Mục tiêu là giải pháp cho vấn đề Đông Dương, không phải toàn bộ Đông Nam Á."
+      },
+      {
+        "content": "Mục tiêu cao nhất trong hoạt động đối ngoại của Đảng Cộng sản Đông Dương trong những năm 1930-1945 là phục vụ cuộc đấu tranh giải phóng dân tộc của nhân dân Việt Nam.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Đối với các nước xã hội chủ nghĩa trên thế giới, Trung ương Đảng chỉ rõ Đông Dương hiện nay bị hãm trong vòng vây của đế quốc chủ nghĩa, nhiệm vụ là phải liên minh với các dân tộc bị áp bức và vô sản trên thế giới, đặc biệt là các nước lân cận để củng cố công cuộc cách mạng của mình. Tháng 9-1947, khi trả lời nhà báo Mĩ S. EliMaissie về câu hỏi: “Những đại cương chính sách đối ngoại của nước Việt Nam”, Chủ tịch Hồ Chí Minh đã khẳng định: Chính sách đối ngoại của nước ta là “làm bạn với tất cả mọi nước dân chủ và không gây thù oán với một ai”.",
+    "subQuestions": [
+      {
+        "content": "Chủ tịch Hồ Chí Minh khẳng định chính sách đối ngoại của Việt Nam là “làm bạn với tất cả mọi nước dân chủ và không gây thù oán với một ai”.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Trung ương Đảng chủ trương liên minh với các nước đế quốc chủ nghĩa để củng cố công cuộc cách mạng ở Đông Dương.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Chính sách đối ngoại của Việt Nam sau Cách mạng tháng Tám 1945 chú trọng xây dựng quan hệ hòa bình và hợp tác với các nước dân chủ trên thế giới.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Để bảo vệ thành quả cách mạng, Việt Nam cần tăng cường liên minh với các dân tộc bị áp bức và giai cấp vô sản quốc tế, đặc biệt là với các nước láng giềng.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Tư tưởng ngoại giao Hồ Chí Minh là kết hợp sức mạnh dân tộc với sức mạnh thời đại; là hòa bình và chống chiến tranh xâm lược; là hữu nghị và hợp tác với các nước láng giềng có chung biên giới với Việt Nam; là xây dựng quan hệ hữu nghị với các nước lớn; là xác định ngoại giao phải là một mặt trận, một binh chủng hợp thành của cách mạng Việt Nam. Chủ tịch Hồ Chí Minh luôn xác định cách mạng Việt Nam có mối liên hệ mật thiết với các trào lưu và lực lượng tiến bộ của thế giới, việc tăng cường các mối liên hệ và hợp tác quốc tế là một trong những điều giúp ta kháng chiến thắng lợi, kiến quốc thành công”.",
+    "subQuestions": [
+      {
+        "content": "Tư tưởng ngoại giao Hồ Chí Minh kết hợp sức mạnh dân tộc với sức mạnh thời đại để bảo vệ và xây dựng đất nước.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Tư tưởng ngoại giao Hồ Chí Minh chỉ chú trọng xây dựng quan hệ hữu nghị với các nước láng giềng mà không quan tâm đến các nước lớn.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Ngoại giao Việt Nam hiện nay cần tiếp tục kết hợp sức mạnh dân tộc với sức mạnh thời đại để bảo vệ Tổ quốc và phát triển đất nước.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Việc tăng cường quan hệ với các trào lưu và lực lượng tiến bộ trên thế giới là yếu tố quan trọng trong chiến lược ngoại giao của Việt Nam để đảm bảo an ninh và thúc đẩy phát triển.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Theo Hồ Chí Minh, trong cuộc kháng chiến chống Mỹ, cứu nước, đấu tranh quân sự và đấu tranh chính trị ở miền Nam là nhân tố chủ yếu quyết định thắng lợi trên chiến trường, làm cơ sở thắng lợi trên mặt trận ngoại giao. Nói chuyện với Đoàn đại biểu Chính phủ ta chuẩn bị lên đường đàm phán với Mỹ tại Hội nghị Pari (tháng 5-1968), Người căn dặn: \"Các chú đi Pháp, ở nhà người ta đánh cho các chú phát huy, nghĩa là phải biết tận dụng thắng lợi trên chiến trường để làm “vốn\" đàm phán. Phải phối hợp quân sự với ngoại giao, vừa đánh, vừa đàm mới có hiệu quả cao nhất\".",
+    "subQuestions": [
+      {
+        "content": "Hồ Chí Minh nhấn mạnh rằng đấu tranh quân sự và đấu tranh chính trị ở miền Nam là nhân tố quyết định thắng lợi trên chiến trường trong cuộc kháng chiến chống Mỹ.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Hồ Chí Minh cho rằng chỉ cần tập trung vào mặt trận ngoại giao là đủ để đạt được thắng lợi trong cuộc kháng chiến chống Mỹ.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Khi đàm phán quốc tế, cần phối hợp chặt chẽ giữa các thắng lợi quân sự với hoạt động ngoại giao để tối ưu hóa kết quả đạt được.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Trong các cuộc đàm phán quốc tế hiện nay, việc tận dụng các thành tựu trên thực địa và khả năng quân sự là yếu tố then chốt để đạt được lợi thế và hiệu quả cao trong ngoại giao.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Hiệp định Paris (1973) về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết, kết thúc thắng lợi cuộc đấu tranh ngoại giao dài nhất, khó khăn nhất trong lịch sử ngoại giao nước ta ở thế kỷ XX; đánh dấu thắng lợi lịch sử của nhân dân ta sau hơn 19 năm đấu tranh kiên cường, bất khuất trên các mặt trận chính trị, quân sự, ngoại giao chống Mĩ xâm lược”.",
+    "subQuestions": [
+      {
+        "content": "Hiệp định Pa-ri (1973) đánh dấu thắng lợi của cuộc đấu tranh ngoại giao lâu dài và khó khăn nhất trong lịch sử ngoại giao Việt Nam ở thế kỷ XX.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Hiệp định Pa-ri chỉ là một thắng lợi về mặt quân sự mà không có ý nghĩa lớn về mặt ngoại giao đối với cuộc kháng chiến chống Mỹ của Việt Nam.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Thắng lợi ngoại giao trong việc ký kết Hiệp định Pa-ri là kết quả của sự phối hợp hiệu quả giữa đấu tranh chính trị, quân sự và ngoại giao của Việt Nam.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Thành công của Hiệp định Pa-ri cho thấy tầm quan trọng của sự kiên trì và chiến lược phối hợp toàn diện giữa các mặt trận trong các cuộc đấu tranh ngoại giao, một bài học quý báu cho công tác ngoại giao hiện nay.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Trong lịch sử dựng nước và giữ nước, ông cha ta luôn lấy ngoại giao hòa hiếu làm thượng sách giữ nước. Trong đấu tranh giải phóng dân tộc, thống nhất đất nước, xây dựng và bảo vệ Tổ quốc, đối ngoại đi đầu tạo thế \"vừa đánh, vừa đàm\", tranh thủ ủng hộ quốc tế, phá bao vây cấm vận, mở ra cục diện phát triển mới cho đất nước. Trong công cuộc đổi mới, đối ngoại “đi đầu trong kiến tạo hòa bình, bảo vệ Tổ quốc và thu hút nguồn lực cho phát triển đất nước”.",
+    "subQuestions": [
+      {
+        "content": "Trong cuộc kháng chiến chống Mĩ cứu nước, nhân dân Việt Nam đã giành thắng lợi trên cục diện \"vừa đánh, vừa đàm\".",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Cục diện \"vừa đánh, vừa đàm\" là sự phối hợp chặt giữa đấu tranh chính trị với đấu tranh ngoại giao trên bàn đàm phán.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "“Tranh thủ sự ủng hộ của quốc tế” là một trong những chủ trương xuyên suốt trong hoạt động đối ngoại của Việt Nam.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Trong bối cảnh quốc tế hiện nay, Việt Nam cần tiếp tục sử dụng chiến lược “vừa hợp tác, vừa đấu tranh” trong quan hệ ngoại giao để bảo vệ lợi ích quốc gia và duy trì ổn định khu vực.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Đường lối đối ngoại “độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển, đa phương hóa, đa dạng hóa quan hệ đối ngoại”; “là bạn, là đối tác tin cậy và là thành viên tích cực, có trách nhiệm trong cộng đồng quốc tế”; kiên định về nguyên tắc, mục tiêu, linh hoạt, khôn khéo về sách lược được thực hiện nhất quán, đồng bộ, hiệu quả; đồng thời, phối hợp chặt chẽ, nhịp nhàng giữa đối ngoại đảng, ngoại giao nhà nước và đối ngoại nhân dân”.",
+    "subQuestions": [
+      {
+        "content": "Trụ cột trong hoạt động đối ngoại của Việt Nam hiện nay là đối ngoại đảng, ngoại giao nhà nước và đối ngoại nhân dân.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Kiên định về nguyên tắc, mục tiêu trong hoạt động đối ngoại là kiên định về chủ trương “độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển”.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Đường lối đối ngoại của Việt Nam chỉ tập trung vào việc đa phương hóa các mối quan hệ với các nước lớn, mà không chú trọng đến các nước láng giềng và khu vực.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Sự phối hợp nhịp nhàng giữa đối ngoại đảng, ngoại giao nhà nước và đối ngoại nhân dân là yếu tố then chốt giúp Việt Nam thích ứng linh hoạt trước những thay đổi phức tạp của tình hình quốc tế, đảm bảo lợi ích quốc gia và tăng cường vị thế trên trường quốc tế.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\nCố Tổng Bí thư Nguyễn Phú Trọng từng nói: “Đất nước ta có trường phái ngoại giao riêng biệt, đặc sắc và độc đáo, đó là trường phái ngoại giao cây tre. Cây tre Việt Nam có gốc vững chắc, cành uyển chuyển, mềm dẻo nhưng rất kiên cường, không có cơn gió nào quật ngã được. Đây là trường phái ngoại giao thấm từ tâm hồn, cốt cách, khí phách của Việt Nam: mềm mại, khôn khéo nhưng kiên cường; linh hoạt, sáng tạo nhưng kiên định, can trường”.",
+    "subQuestions": [
+      {
+        "content": "Đường lối ngoại giao của Việt Nam hiện nay mang “bản sắc Cây tre Việt Nam” có ý nghĩa là “vững gốc, chắc thân, cành uyển chuyển”.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Cứng rắn về nguyên tắc, mềm dẻo về sách lược trong hoạt động ngoại giao của Việt Nam là không còn phù hợp trong xu thế hội nhập hiện nay.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Lựa chọn đối tác phù hợp để liên minh phòng thủ quốc gia là nhân tố không thể thiếu trong hoạt động ngoại giao hiện nay của Việt Nam.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Trường phái ngoại giao “Cây tre Việt Nam” đòi hỏi Việt Nam phải linh hoạt và khéo léo trong việc xử lý các mối quan hệ quốc tế, tận dụng mọi cơ hội để bảo vệ lợi ích quốc gia mà vẫn giữ vững độc lập, tự chủ trong bối cảnh thế giới không ngừng biến đổi.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Trong bối cảnh tình hình thế giới và khu vực tiếp tục diễn biến nhanh, phức tạp, khó lường, bên cạnh thời cơ, thuận lợi, đất nước ta cũng đối mặt với nhiều khó khăn, thách thức. Xu thế chung của thế giới vẫn là hòa bình, hợp tác, liên kết và phát triển. Tuy nhiên, cạnh tranh giữa các nước lớn, trong đó chủ yếu xuất phát từ thiếu lòng tin chiến lược và nhu cầu đối với vấn đề an ninh quốc gia khiến cho quá trình toàn cầu hóa và hội nhập quốc tế gặp nhiều khó khăn, trở ngại, đồng thời tác động mạnh mẽ đến chính sách đối ngoại của các nước”.",
+    "subQuestions": [
+      {
+        "content": "Xu thế chung của thế giới hiện nay vẫn là hòa bình, hợp tác, liên kết và phát triển.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Sự cạnh tranh giữa các nước lớn không ảnh hưởng đáng kể đến quá trình toàn cầu hóa và hội nhập quốc tế.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Sự thiếu lòng tin chiến lược giữa các nước lớn làm cho môi trường quốc tế trở nên phức tạp hơn, ảnh hưởng đến chính sách đối ngoại của các quốc gia.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Trong bối cảnh quốc tế phức tạp hiện nay, Việt Nam cần linh hoạt và sáng tạo trong chính sách đối ngoại để tận dụng thời cơ, vượt qua thách thức, đồng thời bảo vệ lợi ích quốc gia và giữ vững ổn định khu vực.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Chủ tịch Hồ Chí Minh là Anh hùng giải phóng dân tộc của đất nước và nhân dân Việt Nam. Người là một nhà lãnh đạo vĩ đại với tầm nhìn xa, ý chí và sức mạnh kiên cường, tấm lòng nhân ái bao la. Những phẩm chất sáng ngời của Chủ tịch Hồ Chí Minh sẽ mãi soi sáng cho đất nước và nhân dân Việt Nam”.",
+    "subQuestions": [
+      {
+        "content": "Anh hùng giải phóng dân tộc của đất nước và nhân dân Việt Nam được nhắc đến trong đoạn trích trên là Nguyễn Ái Quốc.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Một trong những công lao to lớn của Người trong sự nghiệp giải phóng dân tộc là sáng lập ra Đảng cộng sản Đông Dương.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Việc tìm ra con đường cách mạng vô sản không phải là công lao đầu tiên và quan trọng nhất trong sự nghiệp giải phóng dân tộc của Hồ Chí Minh.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh là việc làm được lan tỏa và mang lại hiệu quả tích cực trên nhiều lĩnh vực hiện nay.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Hồ Chủ tịch là tượng trưng cao đẹp của chủ nghĩa yêu nước chân chính kết hợp nhuần nhuyễn với chủ nghĩa quốc tế vô sản. Trái tim, khối óc của Người dành cho dân tộc Việt Nam ta cũng hướng về giai cấp vô sản và các dân tộc bị áp bức trên toàn thế giới. Là người học trò trung thành của Các Mác và Lê-nin, Hồ Chủ tịch chẳng những là một nhà yêu nước vĩ đại, mà còn là một chiến sĩ xuất sắc trong phong trào cộng sản quốc tế và phong trào giải phóng dân tộc của thế kỉ XX. Hồ Chủ tịch thường dạy chúng ta phải chăm lo bảo vệ sự đoàn kết quốc tế, vì sự nghiệp to lớn của cách mạng Việt Nam, vì nghĩa vụ cao cả đối với cách mạng thế giới”.",
+    "subQuestions": [
+      {
+        "content": "Điếu văn ca ngợi Chủ tịch Hồ Chí Minh trong Lễ truy điệu được tổ chức tại Hà Nội sau khi Chủ tịch Hồ Chí Minh từ trần năm 1969.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Nội dung đoạn điếu văn cho thấy Chủ tịch Hồ Chí Minh có cống hiến to lớn đối với cách mạng Việt Nam và cách mạng thế giới.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Chủ tịch Hồ Chí Minh có vị trí, vai trò đặc biệt đối với tiến trình lịch sử Việt Nam từ giữa thế kỉ XIX đến đầu thế kỉ XX.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Phong trào cộng sản quốc tế hiện nay trên thế giới đang tiếp tục phát triển mạnh mẽ và có sự đoàn kết chặt chẽ.",
+        "answer": "Sai",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Tôi tuyệt nhiên không ham muốn công danh phú quý chút nào. Bây giờ phải gánh chức Chủ tịch là vì đồng bào uỷ thác thì tôi phải gắng sức làm, cũng như một người lính vâng mệnh lệnh của quốc dân ra trước mặt trận. Bao giờ đồng bào cho tôi lui, thì tôi rất vui lòng lui. Tôi chỉ có một sự ham muốn, ham muốn tột bậc, là làm sao cho nước ta được hoàn toàn độc lập, dân ta được hoàn toàn tự do, đồng bào ai cũng có cơm ăn áo mặc, ai cũng được học hành”.",
+    "subQuestions": [
+      {
+        "content": "Hồ Chí Minh có một ham muốn tột bậc là làm cho nước ta hoàn toàn độc lập, dân ta được tự do, và ai cũng có cơm ăn áo mặc, ai cũng được học hành.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Hồ Chí Minh mong muốn được giữ chức Chủ tịch suốt đời để có thể cống hiến lý tưởng cao đẹp của Người là hết lòng vì nước, vì dân.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Đoạn tư liệu phản ánh tư tưởng cao đẹp của Hồ Chí Minh về sự tận tụy, khiêm nhường và lòng yêu nước sâu sắc.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Đoạn tư liệu thể hiện tư tưởng cao đẹp của Hồ Chí Minh về sự hy sinh vì dân tộc, tinh thần trách nhiệm và khát vọng mang lại hạnh phúc, tự do cho nhân dân.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, người anh hùng dân tộc vĩ đại, và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta”. Cuộc đời 79 mùa Xuân của Chủ tịch Hồ Chí Minh là biểu tượng cao đẹp nhất của chủ nghĩa yêu nước và chủ nghĩa anh hùng cách mạng Việt Nam. Người là kết tinh rạng ngời của đạo đức, trí tuệ, khí phách, lương tri của dân tộc và thời đại”.",
+    "subQuestions": [
+      {
+        "content": "Chủ tịch Hồ Chí Minh là người anh hùng dân tộc vĩ đại của Việt Nam.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Cuộc đời của Chủ tịch Hồ Chí Minh chỉ có ý nghĩa đối với dân tộc Việt Nam.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Chủ tịch Hồ Chí Minh không chỉ là anh hùng dân tộc mà còn là biểu tượng của trí tuệ và lương tri của thời đại.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Học tập và làm theo tấm gương, đạo đức, phong cách Hồ Chí Minh là cần thiết để thúc đẩy lối sống đạo đức, trách nhiệm, góp phần xây dựng đất nước ngày càng phát triển và văn minh.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“... Luận cương của Lê-nin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao! Tôi vui mừng đến phát khóc lên. Ngồi một mình trong buồng mà tôi nói to lên như đang nói trước quần chúng đông đảo: “Hỡi đồng bào bị đọa đày đau khổ! Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta!”. Từ đó tôi hoàn toàn tin theo Lê-nin, tin theo Quốc tế thứ ba”.",
+    "subQuestions": [
+      {
+        "content": "Đoạn tư liệu thể hiện cảm xúc của Nguyễn Ái Quốc khi đọc bản Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lê-nin.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Trong đoạn tư liệu, Nguyễn Ái Quốc khẳng định: muốn cứu nước và giải phóng dân tộc, không có con đường nào khác ngoài con đường cách mạng vô sản.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Việc Nguyễn Ái Quốc tìm thấy con đường cứu nước đúng đắn đã chấm dứt hoàn toàn sự khủng hoảng về đường lối cứu nước và giai cấp lãnh đạo cách mạng Việt Nam.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Việc hoàn toàn tin theo Lê-nin đã định hình tư tưởng và chiến lược cách mạng của Hồ Chí Minh, tạo nền tảng cho sự lãnh đạo phong trào giải phóng dân tộc Việt Nam.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\nNgày 18-6-1919, thay mặt những người Việt Nam yêu nước tại Pháp, Nguyễn Ái Quốc gửi tới hội nghị Versailles “Bản yêu sách của nhân dân An Nam” đòi Pháp và Đồng minh thừa nhận quyền tự do, dân chủ, quyền bình đẳng của nhân dân An Nam. Tháng 07-1920 Nguyễn Ái Quốc đọc “Sơ thảo lần thứ nhất Luận cương về vấn đề dân tộc và thuộc địa” của V.I.Lênin, khẳng định con đường giành độc lập, tự do của nhân dân Việt Nam. Từ ngày 10 đến 19-5-1941, chủ trì Hội nghị Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương lần thứ 8 và thành lập Mặt trận Việt Minh. Giữa tháng 8-1945, Hồ Chí Minh cùng với Trung ương Đảng lãnh đạo toàn dân Tổng khởi nghĩa giành chính quyền thành công, đưa tới sự ra đời của nước Việt Nam Dân chủ Cộng hoà (2-9-1945).",
+    "subQuestions": [
+      {
+        "content": "Luận của V.I.Lênin về vấn đề dân tộc và thuộc địa đã giúp Nguyễn Ái Quốc nhận thức: “Muốn giải phóng các dân tộc chỉ có thế dựa vào lực lượng của bản thân mình”.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Sau nhiều năm bôn ba khắp các châu lục, đến tháng 7-1920, Nguyễn Ái Quốc đã khẳng định được con đường giành độc lập, tự do của dân tộc Việt Nam.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Công lao to lớn đầu tiên của Nguyễn Ái Quốc đối với cách mạng Việt Nam là tìm ra con đường cứu nước đúng đắn cho dân tộc Việt Nam.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Từ thực tiễn hoạt động cứu nước của Nguyễn Ái Quốc cho thấy: cách mạng muốn thành công cần có một chính đảng tiên phong với đường lối đúng đắn sáng tạo.",
+        "answer": "Đúng",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Chiến tranh có thể kéo dài 5 năm, 10 năm, 20 năm hoặc lâu hơn nữa. Hà Nội, Hải Phòng và một số thành phố, xí nghiệp có thể bị tàn phá, song nhân dân Việt Nam quyết không sợ! Không có gì quý hơn độc lập, tự do. Đến ngày thắng lợi, nhân dân ta sẽ xây dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn!”.",
+    "subQuestions": [
+      {
+        "content": "Lời kêu gọi cho thấy Hồ Chí Minh tin tưởng vào thắng lợi của cuộc kháng chiến chống Mỹ, cứu nước.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Đoạn tư liệu thể hiện mong muốn của Hồ Chí Minh khi Mỹ chấm dứt chiến tranh phá hoại miền Bắc.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Đoạn tư liệu thể hiện quyết tâm của nhân dân Việt Nam trong cuộc kháng chiến chống Mỹ, cứu nước.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Lời kêu gọi là một văn kiện lịch sử, có giá trị như lời hịch kêu gọi cả nước tấn công quân Mỹ.",
+        "answer": "Sai",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "topic": "Lịch sử",
+    "question": "Đọc đoạn tư liệu sau đây:\n“Dù khó khăn gian khổ đến mấy, nhân dân ta nhất định sẽ hoàn toàn thắng lợi. Đế quốc Mỹ nhất định phải cút khỏi nước ta. Tổ quốc ta nhất định sẽ thống nhất. Đồng bào Nam Bắc nhất định sẽ sum họp một nhà. Nước ta sẽ có vinh dự lớn là một nước nhỏ mà đã anh dũng đánh thắng hai đế quốc to – là Pháp và Mỹ; và đã góp phần xứng đáng vào phong trào giải phóng dân tộc”.",
+    "subQuestions": [
+      {
+        "content": "Cuộc kháng chiến chống Mỹ cứu nước của quân dân Việt Nam bắt đầu từ giữa thế kỉ XIX.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Ngày 27 - 01 - 1973, Hiệp định Pa-ri về chấm dứt chiến tranh, lập lại hoà bình ở Việt Nam được kí kết đã đánh dấu thực hiện mục tiêu “đánh cho Mỹ cút”.",
+        "answer": "Đúng",
+        "explanation": ""
+      },
+      {
+        "content": "Ý chí thống nhất bảo vệ hoà bình của hai siêu cường Xô - Mỹ là nhân tố quan trọng tác động đến cách mạng Việt Nam trong giai đoạn 1954 – 1975.",
+        "answer": "Sai",
+        "explanation": ""
+      },
+      {
+        "content": "Thực tiễn cuộc kháng chiến chống Mỹ cứu nước ở Việt Nam (1954 – 1975) chứng tỏ thắng lợi của đấu tranh ngoại giao luôn phụ thuộc vào tình hình quốc tế và sự dàn xếp giữa các cường quốc.",
+        "answer": "Sai",
+        "explanation": ""
+      }
+    ]
+  }
+]
